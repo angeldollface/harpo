@@ -44,5 +44,5 @@ To inspect the available APIs, read the source code, please. I've split everythi
 
 ## Note :scroll:
 
-- *Harpo :lock:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- *Harpo :lock:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
 - Licensed under the MIT license.
