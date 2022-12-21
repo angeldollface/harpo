@@ -12,9 +12,6 @@ environment:
 dependencies:
   harpo:
     git: git://github.com/angeldollface/harpo
-dev_dependencies:
-  harpo:
-    git: git://github.com/angeldollface/harpo
 ```
 
 Here is the example itself:

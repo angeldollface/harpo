@@ -2,7 +2,7 @@
 
 [![GitHub CI](https://github.com/angeldollface/harpo/actions/workflows/dart.yml/badge.svg)](https://github.com/angeldollface/harpo/actions)
 
-*A Dart package for numeric encryption/decryption and binary & hexadecimal encryption/decryption! :lock:*
+***A Dart package for numeric encryption/decryption and binary & hexadecimal encryption/decryption! :lock:***
 
 ## About :books:
 
